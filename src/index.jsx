@@ -1,3 +1,5 @@
+// https://blog.yld.io/2015/06/10/getting-started-with-react-and-node-js/#.WWJZmelpyMp
+
 import React from 'react';
 import {render} from 'react-dom';
 
